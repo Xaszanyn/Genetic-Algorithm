@@ -1,0 +1,15 @@
+C:\Users\Ekin\Desktop\Genetic\Genetic\bin\Debug\net6.0\Genetic.exe
+C:\Users\Ekin\Desktop\Genetic\Genetic\bin\Debug\net6.0\Genetic.deps.json
+C:\Users\Ekin\Desktop\Genetic\Genetic\bin\Debug\net6.0\Genetic.runtimeconfig.json
+C:\Users\Ekin\Desktop\Genetic\Genetic\bin\Debug\net6.0\Genetic.dll
+C:\Users\Ekin\Desktop\Genetic\Genetic\bin\Debug\net6.0\Genetic.pdb
+C:\Users\Ekin\Desktop\Genetic\Genetic\obj\Debug\net6.0\Genetic.csproj.AssemblyReference.cache
+C:\Users\Ekin\Desktop\Genetic\Genetic\obj\Debug\net6.0\Genetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekin\Desktop\Genetic\Genetic\obj\Debug\net6.0\Genetic.AssemblyInfoInputs.cache
+C:\Users\Ekin\Desktop\Genetic\Genetic\obj\Debug\net6.0\Genetic.AssemblyInfo.cs
+C:\Users\Ekin\Desktop\Genetic\Genetic\obj\Debug\net6.0\Genetic.csproj.CoreCompileInputs.cache
+C:\Users\Ekin\Desktop\Genetic\Genetic\obj\Debug\net6.0\Genetic.dll
+C:\Users\Ekin\Desktop\Genetic\Genetic\obj\Debug\net6.0\refint\Genetic.dll
+C:\Users\Ekin\Desktop\Genetic\Genetic\obj\Debug\net6.0\Genetic.pdb
+C:\Users\Ekin\Desktop\Genetic\Genetic\obj\Debug\net6.0\Genetic.genruntimeconfig.cache
+C:\Users\Ekin\Desktop\Genetic\Genetic\obj\Debug\net6.0\ref\Genetic.dll
